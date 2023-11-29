@@ -10,7 +10,7 @@ Este é um projeto simples e eficiente de formulário de login para aplicativos 
 ### Layout Responsivo: 
     Funciona bem em uma variedade de dispositivos, incluindo desktops, tablets e smartphones.
 
-### Como Usar
+## Como Usar
 
     Faça o download ou clone o repositório para o seu ambiente local.
 
